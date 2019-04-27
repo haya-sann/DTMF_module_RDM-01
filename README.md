@@ -32,9 +32,8 @@ RDM-01　-DTMF decoder module- manual
 
  5つのGPIOのうち4つは、16種類あるDTMF信号の、何番なのかを表現するためにあり、1つは取得できたことを伝えるためにあります。
   
-![RDMdetal](http://www.rino-make-fun.com/wp-content/uploads/2019/01/RDM-01View-1.png)  
-Closeup PinOUT
-<img src="./PCB/PINOUT.jpg" alt="attach:cat" title="attach:cat" height="250">
+![RDMdetal](http://www.rino-make-fun.com/wp-content/uploads/2019/01/RDM-01View-1.png)Closeup PinOUT<img src="./PCB/PINOUT.jpg" alt="attach:cat" title="attach:cat" height="250">
+ 
  
  実際の基板の画像と照らし合わせて説明すると、以下の機能を示します。
  - +5V -> ５Vピン　
